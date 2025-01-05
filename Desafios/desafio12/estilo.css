@@ -59,7 +59,7 @@ section{
     line-height: 2em;
     padding-left: 30px;
     font-family: var(--fonte3);
-    font-size: 2em;
+    font-size: 3.5vw;
         
 }
 
@@ -76,7 +76,8 @@ section.imagem{
 
 section.imagem p{
     background-color: rgb(32, 31, 31);
-    width: 400px;
+    display: inline-block;
+    padding: 5px;
 }
 
 footer{
